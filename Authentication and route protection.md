@@ -1,0 +1,5 @@
+- Authentication details entered by client and send to server for validation
+- Server send a token ,encoded, to client
+- Client stores the token and attaches that token to request send to server for authentication
+- Only server produces token using special algorithm and know how to decode and validate it
+- 
